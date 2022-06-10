@@ -1,6 +1,6 @@
 # GoogleDocs-clone
 
-Google Docs clone for CSE 356
+Google Docs clone for CSE 356, from Milestone 1 to Milestone 2. Check ```GoogleDocs_m3``` repository for codes after Milestone 3. 
 
 ### How to RUN
 
